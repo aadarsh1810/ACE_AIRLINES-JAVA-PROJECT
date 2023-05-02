@@ -10,3 +10,7 @@ mechanism to handle unexpected errors gracefully. The user interface is designed
 intuitive and user-friendly, with clear instructions and helpful prompts throughout the
 application. Overall, Ace Airlines is a well-designed and efficiently implemented airline
 management system that enhances the overall use experience.
+
+AIRLINE MANAGEMENT SYSTEM folder contains all the source code files.
+
+AIRLINE MANAGEMENT DATABASE folder has the sql tables.
